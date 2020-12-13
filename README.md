@@ -5,14 +5,14 @@ This is an introductory project designed to explore libraries used by NLP focusi
 <img src = "https://github.com/tianiachan/BasicNLPUsingNTLK/blob/main/christmasTreeWordCloud.PNG">
 
 # Libraries Used:
-[NLTK](https://www.nltk.org/) for tokenizing sentences and words, calculating frequency distribution, and defining stop words<br/>
-[Matplotlib](https://www.nltk.org/) for showing graphs<br/>
-[WordCloud](https://github.com/amueller/word_cloud) to generate visuals for most frequently used words<br/>
-[Python Imaging Library](https://pillow.readthedocs.io/en/stable/) used to process image to shape word cloud<br/>
+* [NLTK](https://www.nltk.org/) for tokenizing sentences and words, calculating frequency distribution, and defining stop words
+* [Matplotlib](https://www.nltk.org/) for showing graphs<br/>
+* [WordCloud](https://github.com/amueller/word_cloud) to generate visuals for most frequently used words<br/>
+* [Python Imaging Library](https://pillow.readthedocs.io/en/stable/) used to process image to shape word cloud<br/>
 
 # Tools Used:
-Github as version control
-Jupyter  as IDE
+* Github as version control
+* Jupyter  as IDE
 
 # Contact me:
 
